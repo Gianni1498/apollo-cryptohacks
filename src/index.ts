@@ -1,2 +1,2 @@
-console.log('hi');
-console.log('hello world');
+console.log('susan b anthony');
+console.log('ersdaf');
